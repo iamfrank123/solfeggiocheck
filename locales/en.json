@@ -26,6 +26,7 @@
         "notes_label": "Notes:",
         "mode": "Mode",
         "time_signature": "Time Sig.",
+        "tempo": "Tempo",
         "speed": "Speed",
         "game_mode": "Game Mode",
         "midi_connection": "MIDI Connection",

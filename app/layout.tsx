@@ -10,11 +10,15 @@ export const metadata: Metadata = {
         icon: '/icon.png',
         apple: '/apple-touch-icon.png',
     },
-    viewport: 'width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover'
 }
 
 export const viewport = {
     themeColor: '#4a148c',
+    width: 'device-width',
+    initialScale: 1,
+    maximumScale: 1,
+    userScalable: false,
+    viewportFit: 'cover',
 }
 
 import PWAControls from '@/components/PWAControls'
